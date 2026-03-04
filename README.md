@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/<TU_USUARIO>">
-    <img src="https://img.shields.io/github/followers/<TU_USUARIO>?label=Followers&style=for-the-badge&color=0f172a" />
+  <a href="https://github.com/lmarti16">
+    <img src="https://img.shields.io/github/followers/lmarti16?label=Followers&style=for-the-badge&color=0f172a" />
   </a>
-  <a href="https://github.com/<TU_USUARIO>?tab=repositories">
+  <a href="https://github.com/lmarti16?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Portfolio-e11d48?style=for-the-badge" />
   </a>
   <a href="https://x.com/Luis_MartinezRz">
@@ -85,16 +85,16 @@ Pipelines reproducibles para limpieza, homologación, unión de fuentes, cálcul
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO>&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TU_USUARIO>&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lmarti16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarti16&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<TU_USUARIO>&theme=tokyonight&hide_border=true&border_radius=18" />
+  <img src="https://streak-stats.demolab.com?user=lmarti16&theme=tokyonight&hide_border=true&border_radius=18" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<TU_USUARIO>&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lmarti16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ Pipelines reproducibles para limpieza, homologación, unión de fuentes, cálcul
 <p align="left">
   <a href="https://x.com/Luis_MartinezRz"><img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" /></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/<TU_USUARIO>?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/lmarti16?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://TU_SITIO_WEB.com"><img src="https://img.shields.io/badge/Web-Portafolio-E11D48?style=for-the-badge&logo=googlechrome" /></a>
 </p>
 
