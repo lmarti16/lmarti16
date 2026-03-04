@@ -1,16 +1,29 @@
-## Hi there 👋
+# Luis Martínez 🚀
 
-<!--
-**lmarti16/lmarti16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos enfocado en inteligencia electoral, análisis geoespacial y visualización.  
+Desarrollo dashboards, mapas y herramientas interactivas en **R**, **Shiny** y datos espaciales.
 
-Here are some ideas to get you started:
+## 📌 Sobre mí
+- 🗳️ Análisis electoral y territorial
+- 🗺️ Mapas interactivos y geodatos
+- 📊 Dashboards y visualización de datos
+- 🤖 Automatización y herramientas con IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- **Lenguajes:** R, SQL, Python
+- **Frameworks:** Shiny, Plotly, Leaflet
+- **Datos:** data.table, sf, Excel, CSV, GPKG
+- **Enfoque:** visualización, geoespacial, analítica aplicada
+
+## 🚧 Proyectos
+- **Exploradores electorales** por sección, municipio y distrito
+- **Dashboards de compras públicas**
+- **Mapas territoriales** con capas, KPIs y filtros dinámicos
+- **Pipelines de reseccionamiento** y cruces geográficos
+
+## 🌐 Contacto
+- X / Twitter: [@Luis_MartinezRz](https://x.com/Luis_MartinezRz)
+- GitHub: [Mis repositorios](./?tab=repositories)
+
+## ✨ Actualmente
+Construyendo apps en R Shiny con diseño moderno, mapas interactivos y análisis electoral para México.
