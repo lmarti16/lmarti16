@@ -115,12 +115,3 @@ Pipelines reproducibles para limpieza, homologación, unión de fuentes, cálcul
 > Hacer que los datos no solo **expliquen** lo que pasó, sino que también **ayuden a decidir** qué hacer después.
 
 ---
-
-## 🔥 Bonus opcional
-
-Si quieres que tu perfil se vea todavía más brutal, luego puedes agregar:
-
-- un **banner personalizado** arriba
-- una **animación snake** de contribuciones
-- cards de **repos pineados**
-- badges por proyecto (electoral, mapas, dashboards, IA)
