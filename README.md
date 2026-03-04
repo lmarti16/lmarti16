@@ -71,24 +71,19 @@ Pipelines reproducibles para limpieza, homologación, integración de fuentes, c
 
 ## Trabajo destacado
 
-<p align="center">
-  <a href="https://github.com/lmarti16/PUBLICO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=PUBLICO&theme=tokyonight&hide_border=true&border_radius=14" />
-  </a>
-  <a href="https://github.com/lmarti16/SLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=SLP&theme=tokyonight&hide_border=true&border_radius=14" />
-  </a>
-</p>
+## Trabajo destacado
 
-<p align="center">
-  <a href="https://github.com/lmarti16/extraetext">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=extraetext&theme=tokyonight&hide_border=true&border_radius=14" />
-  </a>
-  <a href="https://github.com/lmarti16/ENIGH_comparativo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=ENIGH_comparativo&theme=tokyonight&hide_border=true&border_radius=14" />
-  </a>
-</p>
+- **[PUBLICO](https://github.com/lmarti16/PUBLICO)**  
+  Visualizaciones y análisis públicos con enfoque territorial, narrativo y utilidad política.
 
+- **[SLP](https://github.com/lmarti16/SLP)**  
+  Mapas, capas y exploradores territoriales para análisis geoespacial y lectura política.
+
+- **[extraetext](https://github.com/lmarti16/extraetext)**  
+  Extracción y estructuración de texto desde documentos oficiales para análisis y automatización.
+
+- **[ENIGH_comparativo](https://github.com/lmarti16/ENIGH_comparativo)**  
+  Análisis comparativo de la ENIGH con indicadores, deciles, carencias y visualización aplicada.
 ---
 
 ## Enfoque de valor
