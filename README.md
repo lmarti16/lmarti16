@@ -122,10 +122,3 @@ Pipelines reproducibles para limpieza, homologación, integración de fuentes, c
 > Los datos sirven más cuando no solo explican el pasado, sino cuando ayudan a decidir con claridad el siguiente movimiento.
 
 ---
-
-## Extras premium recomendados
-
-- **Banner superior** con estética sobria: rojo oscuro, negro, mapa de México, malla de nodos y estilo consultoría
-- **Repos pineados**: deja arriba tus 4 mejores proyectos (electoral, mapas, Shiny, compras)
-- **Badges por especialidad**: Electoral · Geoespacial · Shiny · Visualización · IA
-- **Snake de contribuciones** para que el perfil se vea más vivo
