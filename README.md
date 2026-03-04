@@ -1,18 +1,15 @@
-<!-- README de perfil de GitHub -->
+<!-- README de perfil | versión consultoría política-electoral -->
 
-<h1 align="center">Luis Martínez 🚀</h1>
-<h3 align="center">Inteligencia electoral · Análisis geoespacial · Dashboards en R Shiny</h3>
+<h1 align="center">Luis Martínez</h1>
+<h3 align="center">Inteligencia electoral · Estrategia territorial · Análisis geoespacial</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=E11D48&center=true&vCenter=true&width=950&lines=Analista+de+datos+enfocado+en+inteligencia+electoral+y+territorial;Construyo+apps+en+R+Shiny%2C+mapas+interactivos+y+dashboards+de+alto+impacto;Visualizaci%C3%B3n%2C+geodatos%2C+automatizaci%C3%B3n+y+anal%C3%ADtica+aplicada+para+tomar+mejores+decisiones" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=B91C1C&center=true&vCenter=true&width=980&lines=Consultor%C3%ADa+anal%C3%ADtica+para+decisiones+pol%C3%ADticas+y+territoriales;Datos%2C+mapas+y+visualizaci%C3%B3n+para+entender+el+territorio+y+actuar+mejor;Dashboards+electorales%2C+geodatos+y+herramientas+ejecutivas+en+R+Shiny" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lmarti16">
-    <img src="https://img.shields.io/github/followers/lmarti16?label=Followers&style=for-the-badge&color=0f172a" />
-  </a>
-  <a href="https://github.com/lmarti16?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Portfolio-e11d48?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-lmarti16-111827?style=for-the-badge&logo=github" />
   </a>
   <a href="https://x.com/Luis_MartinezRz">
     <img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" />
@@ -20,69 +17,83 @@
   <a href="https://www.linkedin.com/in/TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://TU_SITIO.com">
+    <img src="https://img.shields.io/badge/Portafolio-Sitio_web-B91C1C?style=for-the-badge&logo=googlechrome" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## Perfil profesional
 
-Soy analista de datos enfocado en **inteligencia electoral**, **análisis geoespacial** y **visualización avanzada**.  
-Diseño herramientas para convertir datos complejos en productos claros, útiles y visualmente potentes:
+Soy analista de datos especializado en **inteligencia electoral**, **análisis territorial** y **visualización estratégica**.  
+Desarrollo soluciones que convierten bases complejas en productos claros, accionables y visualmente sólidos para:
 
-- 🗳️ Exploradores electorales por **sección, municipio y distrito**
-- 🗺️ Mapas interactivos con capas, filtros y métricas territoriales
-- 📊 Dashboards ejecutivos en **R Shiny**
-- ⚙️ Pipelines de limpieza, cruces, automatización y análisis
-- 🤖 Integración de IA para acelerar flujos y generar mejores productos analíticos
+- campañas y operación política
+- análisis territorial y segmentación
+- monitoreo de indicadores clave
+- lectura electoral por sección, municipio y distrito
+- toma de decisiones con sustento cuantitativo
 
-Mi enfoque combina **datos + territorio + diseño + usabilidad**.
+Mi trabajo combina **datos + territorio + diseño + estrategia**.
 
 ---
 
-## 🛠️ Stack principal
+## Líneas de trabajo
+
+### Inteligencia electoral
+Construcción de modelos y tableros para analizar participación, competitividad, concentración de voto, coaliciones, estructura territorial y comportamiento electoral a nivel granular.
+
+### Estrategia territorial
+Lectura espacial del territorio para identificar patrones, fortalezas, riesgos, zonas de oportunidad y prioridades operativas mediante mapas, cruces geográficos y capas de contexto.
+
+### Dashboards ejecutivos
+Diseño de aplicaciones y tableros en **R Shiny** para consulta, exploración y seguimiento de indicadores con filtros dinámicos, KPIs, tablas y visualizaciones interactivas.
+
+### Automatización analítica
+Pipelines reproducibles para limpieza, homologación, integración de fuentes, cálculo de variables derivadas, validación y exportación de productos listos para operación.
+
+---
+
+## Enfoque de valor
+
+- **Traduzco datos complejos en decisiones claras**
+- **Integro análisis técnico con lectura política del territorio**
+- **Diseño herramientas que no solo informan: ayudan a actuar**
+- **Priorizo velocidad, claridad visual y utilidad operativa**
+
+---
+
+## Capacidades técnicas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,sqlite,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=r,python,postgres,sqlite,git,github,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/R-Shiny-276DC3?style=flat-square&logo=r" />
-  <img src="https://img.shields.io/badge/Leaflet-Maps-199900?style=flat-square&logo=leaflet" />
-  <img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=flat-square&logo=plotly" />
-  <img src="https://img.shields.io/badge/data.table-High%20Performance-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/sf-Geospatial-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/DT-Tables-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel" />
+  <img src="https://img.shields.io/badge/Leaflet-Mapas-199900?style=flat-square&logo=leaflet" />
+  <img src="https://img.shields.io/badge/Plotly-Visualizaci%C3%B3n-3F4F75?style=flat-square&logo=plotly" />
+  <img src="https://img.shields.io/badge/data.table-Alto%20rendimiento-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/sf-Geoespacial-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/DT-Tablas-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-Reporteo-217346?style=flat-square&logo=microsoftexcel" />
 </p>
 
 ---
 
-## 🚧 En qué estoy trabajando
+## Aplicaciones y productos
 
-- **Exploradores electorales premium** con filtros dinámicos, KPIs y mapas interactivos
-- **Dashboards de compras / procurement** con visualización ejecutiva
-- **Cruces territoriales y reseccionamiento** para análisis electoral y validación geográfica
-- **Interfaces Shiny de alta gama** con diseño moderno, glassmorphism, dark mode y UX pulido
-
----
-
-## 📌 Proyectos destacados
-
-### 🗳️ Inteligencia electoral
-Aplicaciones y scripts para analizar resultados, participación, competitividad, coaliciones y comportamiento territorial a nivel sección, municipio y distrito.
-
-### 🗺️ Análisis geoespacial
-Mapas interactivos con `sf`, `leaflet` y capas territoriales para explorar patrones, zonas de influencia, cobertura y distribución geográfica.
-
-### 📊 Dashboards ejecutivos
-Herramientas en **R Shiny** para convertir bases complejas en tableros visuales, rápidos y útiles para toma de decisiones.
-
-### ⚙️ Automatización de datos
-Pipelines reproducibles para limpieza, homologación, unión de fuentes, cálculos derivados y exportación de productos listos para operación.
+- Exploradores electorales por **sección, municipio, distrito y entidad**
+- Mapas interactivos con capas políticas, demográficas y territoriales
+- Tableros de seguimiento para operación, monitoreo y diagnóstico
+- Sistemas de consulta con KPIs, filtros y exportación
+- Cruces geográficos y reseccionamiento para validación territorial
+- Productos ejecutivos para lectura rápida y toma de decisiones
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lmarti16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" />
@@ -93,25 +104,28 @@ Pipelines reproducibles para limpieza, homologación, unión de fuentes, cálcul
   <img src="https://streak-stats.demolab.com?user=lmarti16&theme=tokyonight&hide_border=true&border_radius=18" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lmarti16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
 ---
 
-## 🌐 Conecta conmigo
+## Contacto
 
 <p align="left">
   <a href="https://x.com/Luis_MartinezRz"><img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" /></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/lmarti16?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://TU_SITIO_WEB.com"><img src="https://img.shields.io/badge/Web-Portafolio-E11D48?style=for-the-badge&logo=googlechrome" /></a>
+  <a href="mailto:TU_CORREO@MAIL.com"><img src="https://img.shields.io/badge/Email-Contacto-B91C1C?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## ✨ Filosofía de trabajo
+## Principio de trabajo
 
-> Hacer que los datos no solo **expliquen** lo que pasó, sino que también **ayuden a decidir** qué hacer después.
+> Los datos sirven más cuando no solo explican el pasado, sino cuando ayudan a decidir con claridad el siguiente movimiento.
 
 ---
+
+## Extras premium recomendados
+
+- **Banner superior** con estética sobria: rojo oscuro, negro, mapa de México, malla de nodos y estilo consultoría
+- **Repos pineados**: deja arriba tus 4 mejores proyectos (electoral, mapas, Shiny, compras)
+- **Badges por especialidad**: Electoral · Geoespacial · Shiny · Visualización · IA
+- **Snake de contribuciones** para que el perfil se vea más vivo
