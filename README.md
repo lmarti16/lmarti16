@@ -1,66 +1,53 @@
-<!-- README de perfil | versión consultoría política-electoral -->
-
 <h1 align="center">Luis Martínez</h1>
 <h3 align="center">Inteligencia electoral · Estrategia territorial · Análisis geoespacial</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=B91C1C&center=true&vCenter=true&width=980&lines=Consultor%C3%ADa+anal%C3%ADtica+para+decisiones+pol%C3%ADticas+y+territoriales;Datos%2C+mapas+y+visualizaci%C3%B3n+para+entender+el+territorio+y+actuar+mejor;Dashboards+electorales%2C+geodatos+y+herramientas+ejecutivas+en+R+Shiny" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://github.com/lmarti16">
     <img src="https://img.shields.io/badge/GitHub-lmarti16-111827?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/luisangelmartinezrmz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Mart%C3%ADnez-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
   <a href="https://x.com/Luis_MartinezRz">
     <img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://TU_SITIO.com">
-    <img src="https://img.shields.io/badge/Portafolio-Sitio_web-B91C1C?style=for-the-badge&logo=googlechrome" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=700&color=B91C1C&center=true&vCenter=true&width=1100&lines=Consultor%C3%ADa+anal%C3%ADtica+para+decisiones+pol%C3%ADticas+y+territoriales;Datos%2C+mapas+y+visualizaci%C3%B3n+para+entender+el+territorio+y+actuar+mejor;Dashboards+electorales%2C+geodatos+y+herramientas+ejecutivas+en+R+Shiny" alt="Typing SVG" />
 </p>
 
 ---
 
-## Perfil profesional
+## Perfil
 
-Soy analista de datos especializado en **inteligencia electoral**, **análisis territorial** y **visualización estratégica**.  
-Desarrollo soluciones que convierten bases complejas en productos claros, accionables y visualmente sólidos para:
+Soy analista de datos especializado en **inteligencia electoral**, **estrategia territorial** y **visualización ejecutiva**.
+
+Desarrollo herramientas que convierten bases complejas en productos claros, accionables y visualmente sólidos para:
 
 - campañas y operación política
-- análisis territorial y segmentación
+- segmentación y lectura territorial
 - monitoreo de indicadores clave
-- lectura electoral por sección, municipio y distrito
-- toma de decisiones con sustento cuantitativo
+- análisis electoral por sección, municipio y distrito
+- tableros de consulta para toma de decisiones
 
-Mi trabajo combina **datos + territorio + diseño + estrategia**.
+Mi enfoque combina **datos + territorio + diseño + utilidad operativa**.
 
 ---
 
-## Líneas de trabajo
+## Qué construyo
 
 ### Inteligencia electoral
-Construcción de modelos y tableros para analizar participación, competitividad, concentración de voto, coaliciones, estructura territorial y comportamiento electoral a nivel granular.
+Modelos, tableros y exploradores para analizar participación, competitividad, concentración de voto, coaliciones y comportamiento territorial a nivel granular.
 
 ### Estrategia territorial
-Lectura espacial del territorio para identificar patrones, fortalezas, riesgos, zonas de oportunidad y prioridades operativas mediante mapas, cruces geográficos y capas de contexto.
+Lectura espacial del territorio para detectar patrones, fortalezas, riesgos y zonas de oportunidad mediante mapas, cruces geográficos y capas de contexto.
 
 ### Dashboards ejecutivos
-Diseño de aplicaciones y tableros en **R Shiny** para consulta, exploración y seguimiento de indicadores con filtros dinámicos, KPIs, tablas y visualizaciones interactivas.
+Aplicaciones en **R Shiny** con filtros dinámicos, KPIs, tablas y visualizaciones interactivas diseñadas para consulta rápida y decisiones mejor informadas.
 
 ### Automatización analítica
 Pipelines reproducibles para limpieza, homologación, integración de fuentes, cálculo de variables derivadas, validación y exportación de productos listos para operación.
-
----
-
-## Enfoque de valor
-
-- **Traduzco datos complejos en decisiones claras**
-- **Integro análisis técnico con lectura política del territorio**
-- **Diseño herramientas que no solo informan: ayudan a actuar**
-- **Priorizo velocidad, claridad visual y utilidad operativa**
 
 ---
 
@@ -82,18 +69,38 @@ Pipelines reproducibles para limpieza, homologación, integración de fuentes, c
 
 ---
 
-## Aplicaciones y productos
+## Trabajo destacado
 
-- Exploradores electorales por **sección, municipio, distrito y entidad**
-- Mapas interactivos con capas políticas, demográficas y territoriales
-- Tableros de seguimiento para operación, monitoreo y diagnóstico
-- Sistemas de consulta con KPIs, filtros y exportación
-- Cruces geográficos y reseccionamiento para validación territorial
-- Productos ejecutivos para lectura rápida y toma de decisiones
+<p align="center">
+  <a href="https://github.com/lmarti16/PUBLICO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=PUBLICO&theme=tokyonight&hide_border=true&border_radius=14" />
+  </a>
+  <a href="https://github.com/lmarti16/SLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=SLP&theme=tokyonight&hide_border=true&border_radius=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lmarti16/extraetext">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=extraetext&theme=tokyonight&hide_border=true&border_radius=14" />
+  </a>
+  <a href="https://github.com/lmarti16/ENIGH_comparativo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarti16&repo=ENIGH_comparativo&theme=tokyonight&hide_border=true&border_radius=14" />
+  </a>
+</p>
 
 ---
 
-## Estadísticas de GitHub
+## Enfoque de valor
+
+- Traduzco datos complejos en decisiones claras
+- Integro análisis técnico con lectura política del territorio
+- Diseño herramientas que no solo informan: ayudan a actuar
+- Priorizo claridad visual, velocidad y utilidad real
+
+---
+
+## Estadísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lmarti16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" />
@@ -108,17 +115,20 @@ Pipelines reproducibles para limpieza, homologación, integración de fuentes, c
 
 ## Contacto
 
-<p align="left">
-  <a href="https://x.com/Luis_MartinezRz"><img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/lmarti16?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:TU_CORREO@MAIL.com"><img src="https://img.shields.io/badge/Email-Contacto-B91C1C?style=for-the-badge&logo=gmail" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luisangelmartinezrmz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/Luis_MartinezRz">
+    <img src="https://img.shields.io/badge/X-@Luis__MartinezRz-111827?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://github.com/lmarti16?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## Principio de trabajo
 
-> Los datos sirven más cuando no solo explican el pasado, sino cuando ayudan a decidir con claridad el siguiente movimiento.
-
----
+> Los datos generan más valor cuando no solo explican lo que pasó, sino cuando ayudan a decidir con claridad el siguiente movimiento.
